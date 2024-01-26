@@ -6,6 +6,6 @@
  Ten of them are selected at random to be displayed one by one.
  Key points:
  -The user can't advance to the next question if the current one hasn't been answered (an error message is displayed).
- -There is a question counter,letting the user know how far along the quiz is he.
- -At the end,there is an option for the user to review the questions and the answers he provided,highlighting the correct answers,and if he answered wrong,his answers in red.
+ -There is a question counter,letting the user know how far along the quiz are they.
+ -At the end,there is an option for the user to review the questions and the answers they provided,highlighting the correct answers,and if they answered wrong,their answers in red.
  -A score is given at the end of the quiz.
