@@ -696,7 +696,7 @@ function review() {
     document.getElementById("counter_container").style.display="none";
     document.getElementById("tryagain").style.display="none";
     document.getElementById("review").style.display="none";
-    document.getElementById('quiz-container').style.display = 'flex';
+    document.getElementById('quiz-container').style.display = 'grid';
 
 
     
